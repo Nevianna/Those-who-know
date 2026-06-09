@@ -1,8 +1,8 @@
 {
-  "enabled": false,
+  "enabled": true,
   "bucketId": "53972989:1:NAE:playlist_habanerosquad",
   "playlist": "playlist_habanerosquad",
-  "overridePlaylistEnabled": false,
+  "overridePlaylistEnabled": true,
   "overridePlaylist": "playlist_habanerosquad",
   "islandCode": "",
   "linkCode": "",
