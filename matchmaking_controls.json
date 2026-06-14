@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "bucketId": "53972989:1:NAE:playlist_figmentsquad",
-  "playlist": "playlist_figmentsquad",
+  "bucketId": "53972989:1:NAE:playlist_forbiddenfruitnobuildbrsquad",
+  "playlist": "playlist_forbiddenfruitnobuildbrsquad",
   "overridePlaylistEnabled": true,
-  "overridePlaylist": "playlist_figmentsquad",
+  "overridePlaylist": "playlist_forbiddenfruitnobuildbrsquad",
   "matchmakingServiceEnabled": true,
   "matchmakingService": "MCP",
   "islandCode": "",
