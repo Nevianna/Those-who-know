@@ -4,6 +4,8 @@
   "playlist": "playlist_figmentsquad",
   "overridePlaylistEnabled": true,
   "overridePlaylist": "playlist_figmentsquad",
+  "matchmakingServiceEnabled": true,
+  "matchmakingService": "MCP",
   "islandCode": "",
   "linkCode": "",
   "buildId": "53972989",
