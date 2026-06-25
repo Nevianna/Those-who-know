@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "bucketId": "53972989:1:NAE:playlist_figmentsquad",
+  "bucketId": "54820372:1:NAE:playlist_figmentsquad",
   "playlist": "playlist_figmentsquad",
   "overridePlaylistEnabled": true,
   "overridePlaylist": "playlist_figmentsquad",
@@ -8,6 +8,6 @@
   "matchmakingService": "MCP",
   "islandCode": "",
   "linkCode": "",
-  "buildId": "53972989",
+  "buildId": "54820372",
   "hotfixId": "1"
 }
