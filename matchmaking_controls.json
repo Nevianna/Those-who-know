@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "bucketId": "54820372:1:NAE:playlist_habanero_sunflower_duos",
+  "bucketId": "55046785:1:NAE:playlist_habanero_sunflower_duos",
   "playlist": "playlist_habanero_sunflower_duos",
   "overridePlaylistEnabled": true,
   "overridePlaylist": "playlist_habanero_sunflower_duos",
@@ -8,6 +8,6 @@
   "matchmakingService": "MCP",
   "islandCode": "",
   "linkCode": "",
-  "buildId": "54820372",
+  "buildId": "55046785",
   "hotfixId": "1"
 }
