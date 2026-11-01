@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "bucketId": "58971103:1:NA:playlist_habanerosquad",
-  "playlist": "playlist_habanerosquad",
+  "bucketId": "58971103:1:NA:playlist_habanerotrio",
+  "playlist": "playlist_habanerotrio",
   "overridePlaylistEnabled": true,
-  "overridePlaylist": "playlist_habanerosquad",
+  "overridePlaylist": "playlist_habanerotrio",
   "matchmakingServiceEnabled": true,
   "matchmakingService": "MCP",
   "islandCode": "",
